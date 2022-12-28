@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.navbar {
+  background-color: #F55A5A;
+  height: 55px;
+  text-align: center;
+  line-height: 3.2;
+  color: #FFFFFF;
+}
+
+.nav--icon {
+  margin-right: 5px;
+  margin-bottom: -6px;
+}
+
+.card--section {
+  display: flex;
+}
