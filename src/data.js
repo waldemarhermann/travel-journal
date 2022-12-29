@@ -1,7 +1,7 @@
 export default[
     {
         id: 1,
-        imgae: "grand-canyon.jpg",
+        image: "grand-canyon.jpg",
         location: "USA",
         mapLink: "https://goo.gl/maps/GiokGeRKoh15JBf58",
         sight: "Grand Canyon",
