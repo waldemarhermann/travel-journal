@@ -1,7 +1,8 @@
+
 export default[
     {
         id: 1,
-        image: "grand-canyon.jpg",
+        image: "https://images.unsplash.com/photo-1623300973992-54b05851941d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGdyYW5kJTIwY2FueW9ufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
         location: "USA",
         mapLink: "https://goo.gl/maps/GiokGeRKoh15JBf58",
         sight: "Grand Canyon",
@@ -11,7 +12,7 @@ export default[
     
     {
         id: 2,
-        image: "lofoten.jpg",
+        image: "https://images.unsplash.com/photo-1527004013197-933c4bb611b3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
         location: "Norway",
         mapLink: "https://goo.gl/maps/p7gcfpcrPUNjzKWG8",
         sight: "Lofoten",
@@ -21,7 +22,7 @@ export default[
     
     {
         id: 3,
-        image: "dolomiten.jpg",
+        image: "https://images.unsplash.com/photo-1619371208402-615001f13a45?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGRvbG9taXRlc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
         location: "Italy",
         mapLink: "https://goo.gl/maps/Dz6xapzmpi3QB5Bt5",
         sight: "Dolomiten",
