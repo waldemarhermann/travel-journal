@@ -4,7 +4,7 @@ function Navbar() {
     return (
         <nav className="navbar">
             <img className="nav--icon" src={worldIcon} alt="world-img" />
-            <span>my travel journal.</span>
+            <span>A travel journal.</span>
         </nav>
     )
 }
