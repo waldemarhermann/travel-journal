@@ -10,12 +10,7 @@ function App() {
     return (
       <Card
         key={item.id}
-        img={item.image}
-        location={item.location}
-        mapLink={item.mapLink}
-        sight={item.sight}
-        time={item.sight}
-        descripe={item.describe}
+        item={item}
       />
     )
   })
